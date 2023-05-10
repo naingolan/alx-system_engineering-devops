@@ -1,1 +1,1 @@
-# The assignemnt for Apache and web stack debugging
+# Apache and web stack debugging
